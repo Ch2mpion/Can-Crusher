@@ -41,8 +41,6 @@ This repository specifically contains the Arduino sketches (`.ino` files) that i
 
 * **`CanCrusher.ino`**: This is the primary Arduino sketch that contains all the logic for detecting cans, controlling the motor, and managing the automated crushing cycle. It includes the setup and loop functions, along with any necessary helper functions for sensor readings and motor control. 💻
 
-* **`CanCrusher.ino`**: This is the primary Arduino sketch that contains all the logic for detecting cans, controlling the motor, and managing the automated crushing cycle. It includes the setup and loop functions, along with any necessary helper functions for sensor readings and motor control. 💻
-
 ## Setup & Usage 🚀
 
 *(This section will require more specific instructions once the code is finalized and uploaded. Here's a general outline.)*
