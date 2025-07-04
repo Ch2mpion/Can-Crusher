@@ -43,7 +43,6 @@ This repository specifically contains the Arduino sketches (`.ino` files) that i
 
 ## Setup & Usage 🚀
 
-*(This section will require more specific instructions once the code is finalized and uploaded. Here's a general outline.)*
 
 1.  **Hardware Requirements:** 🛠️
     * Arduino Uno
